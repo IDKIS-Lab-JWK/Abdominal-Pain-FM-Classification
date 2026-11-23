@@ -93,8 +93,8 @@ clinical performance evaluation or a full retraining of every foundation model.
 To download only the reusable branch:
 
 ```sh
-git clone --single-branch --branch main https://github.com/IDKIS-Lab-JWK/systematic-methodology.git
-cd systematic-methodology
+git clone --single-branch --branch main https://github.com/IDKIS-Lab-JWK/Abdominal-Pain-FM-Classification.git
+cd Abdominal-Pain-FM-Classification
 ```
 
 Study checkpoints are hosted on [public Google Drive](https://drive.google.com/drive/folders/1Rtn1sMIduWCzlX5z-3r1SI2v6B7FfKIT), not Git LFS.
