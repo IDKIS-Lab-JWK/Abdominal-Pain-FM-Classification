@@ -1,4 +1,4 @@
-# Systematic Methodology
+# Abdominal Pain Foundation Models Classification
 
 A configurable framework for training and testing abdominal CT classifiers
 across seven model families. Bring your own development data, select the model
